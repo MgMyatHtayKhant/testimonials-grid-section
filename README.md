@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Repository URL](https://github.com/MgMyatHtayKhant/testimonials-grid-section)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://stalwart-dieffenbachia-4282e5.netlify.app/)
 
 ## My process
 
